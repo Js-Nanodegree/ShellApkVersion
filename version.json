@@ -1,7 +1,6 @@
 {
-  "versionName": "1.0.0",
-  "versionCode": "1",
-  "apkUrl": "https://raw.githubusercontent.com/Js-Nanodegree/ShellApkVersion/test/app-release.apk",
-  "apkUrlVersion": "https://raw.githubusercontent.com/Js-Nanodegree/ShellApkVersion/master/version.json",
+  "versionName":"999.0.0",
+  "versionCode": "998",
+  "apkUrl":"https://github.com/mikehardy/react-native-update-apk/releases/download/v3.0.1/rn-update-apk-example-3.0.1.apk",
   "forceUpdate": false
 }
