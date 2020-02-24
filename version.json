@@ -1,7 +1,7 @@
 {
   "versionName": "998.0.0",
   "versionCode": "998",
-  "apkUrl": "https://raw.githubusercontent.com/Js-Nanodegree/ShellApkVersion/master/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Js-Nanodegree/ShellApkVersion/test/app-release.apk",
   "apkUrlVersion": "https://raw.githubusercontent.com/Js-Nanodegree/ShellApkVersion/master/version.json",
   "forceUpdate": false
 }
